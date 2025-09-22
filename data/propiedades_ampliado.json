@@ -1,0 +1,6095 @@
+[
+  {
+    "id": "prop_001",
+    "nombre": "Loft en Equipetrol este (34)",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 224745,
+      "superficie_m2": 155,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 4,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 11,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Equipetrol",
+      "barrio": "Equipetrol este (34)",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol",
+      "coordenadas": {
+        "lat": -17.744258,
+        "lng": -63.158749
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1449,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Busch-Equipetrol oeste (33)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 286345,
+      "superficie_m2": 177,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 16,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Equipetrol",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_estar_social",
+        "solarium",
+        "lavanderia_comunitaria",
+        "gimnasio_box"
+      ],
+      "cuota_mantenimiento": 403
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Equipetrol",
+      "barrio": "Busch-Equipetrol oeste (33)",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol",
+      "coordenadas": {
+        "lat": -17.719227,
+        "lng": -63.11764
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1617,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "muy_alta",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Equipetrol norte (59-PSU-5)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 206697,
+      "superficie_m2": 173,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 25,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Equipetrol",
+      "barrio": "Equipetrol norte (59-PSU-5)",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol",
+      "coordenadas": {
+        "lat": -17.755955,
+        "lng": -63.110201
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1194,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "muy_alta",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Sirari (58)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 132903,
+      "superficie_m2": 137,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Sirari (58)",
+      "barrio": "Sirari (58)",
+      "zona": "Sirari (58)",
+      "sector": "Sirari (58)",
+      "coordenadas": {
+        "lat": -17.714326,
+        "lng": -63.181891
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 970,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en Busch norte (55-56-57)",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 150529,
+      "superficie_m2": 103,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 6,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Zona Norte",
+      "barrio": "Busch norte (55-56-57)",
+      "zona": "Zona Norte",
+      "sector": "Zona Norte",
+      "coordenadas": {
+        "lat": -17.79603,
+        "lng": -63.156985
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1461,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Ovidio-Banzer 2do y 3ro (36)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 245888,
+      "superficie_m2": 186,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 8,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Ovidio-Banzer 2do y 3ro (36)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "cancha_tenis",
+        "jardines",
+        "gimnasio",
+        "piscina_comunitaria"
+      ],
+      "cuota_mantenimiento": 257
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Ovidio-Banzer 2do y 3ro (36)",
+      "barrio": "Ovidio-Banzer 2do y 3ro (36)",
+      "zona": "Ovidio-Banzer 2do y 3ro (36)",
+      "sector": "Ovidio-Banzer 2do y 3ro (36)",
+      "coordenadas": {
+        "lat": -17.721257,
+        "lng": -63.160794
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1321,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Isuto-Ovidio 2do y 3ro (35)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 164770,
+      "superficie_m2": 100,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Isuto-Ovidio 2do y 3ro (35)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "seguridad_24h",
+        "sauna",
+        "lavanderia_comunitaria"
+      ],
+      "cuota_mantenimiento": 333
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Isuto-Ovidio 2do y 3ro (35)",
+      "barrio": "Isuto-Ovidio 2do y 3ro (35)",
+      "zona": "Isuto-Ovidio 2do y 3ro (35)",
+      "sector": "Isuto-Ovidio 2do y 3ro (35)",
+      "coordenadas": {
+        "lat": -17.740189,
+        "lng": -63.150407
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1647,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en R27-Banzer 3ro y 4to (60)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 151381,
+      "superficie_m2": 146,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 23,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en R27-Banzer 3ro y 4to (60)",
+      "barrio": "R27-Banzer 3ro y 4to (60)",
+      "zona": "R27-Banzer 3ro y 4to (60)",
+      "sector": "R27-Banzer 3ro y 4to (60)",
+      "coordenadas": {
+        "lat": -17.704353,
+        "lng": -63.104251
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1036,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Isuto-R26 3ro y 4to (61)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 125351,
+      "superficie_m2": 71,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 6,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Isuto-R26 3ro y 4to (61)",
+      "barrio": "Isuto-R26 3ro y 4to (61)",
+      "zona": "Isuto-R26 3ro y 4to (61)",
+      "sector": "Isuto-R26 3ro y 4to (61)",
+      "coordenadas": {
+        "lat": -17.746336,
+        "lng": -63.185699
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1765,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en R26-R27 3ro y 4to (62)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 114841,
+      "superficie_m2": 69,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 22,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio R26-R27 3ro y 4to (62)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "jardines",
+        "estacionamiento_visitas",
+        "seguridad_24h",
+        "gimnasio_box",
+        "rooftop",
+        "cancha_tenis",
+        "area_barbacoa",
+        "turco"
+      ],
+      "cuota_mantenimiento": 453
+    },
+    "ubicacion": {
+      "direccion": "Dirección en R26-R27 3ro y 4to (62)",
+      "barrio": "R26-R27 3ro y 4to (62)",
+      "zona": "R26-R27 3ro y 4to (62)",
+      "sector": "R26-R27 3ro y 4to (62)",
+      "coordenadas": {
+        "lat": -17.716642,
+        "lng": -63.14388
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1664,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Isuto-R26 4to y 5to",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 320634,
+      "superficie_m2": 379,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 4,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 22,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Isuto-R26 4to y 5to",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_cine",
+        "area_barbacoa",
+        "gimnasio_box",
+        "lavanderia_comunitaria",
+        "paddle_tennis",
+        "jardines"
+      ],
+      "cuota_mantenimiento": 312
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Isuto-R26 4to y 5to",
+      "barrio": "Isuto-R26 4to y 5to",
+      "zona": "Isuto-R26 4to y 5to",
+      "sector": "Isuto-R26 4to y 5to",
+      "coordenadas": {
+        "lat": -17.767054,
+        "lng": -63.139965
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 846,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en R26-R27 4to y 5to",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 188199,
+      "superficie_m2": 148,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 10,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en R26-R27 4to y 5to",
+      "barrio": "R26-R27 4to y 5to",
+      "zona": "R26-R27 4to y 5to",
+      "sector": "R26-R27 4to y 5to",
+      "coordenadas": {
+        "lat": -17.761725,
+        "lng": -63.125577
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1271,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Hamacas (37)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 88673,
+      "superficie_m2": 47,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 17,
+      "estado_conservacion": "nuevo",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Hamacas (37)",
+      "barrio": "Hamacas (37)",
+      "zona": "Hamacas (37)",
+      "sector": "Hamacas (37)",
+      "coordenadas": {
+        "lat": -17.775183,
+        "lng": -63.14476
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1886,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Banzer-Beni 2do y 3ro (15)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 124950,
+      "superficie_m2": 63,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 4,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Banzer-Beni 2do y 3ro (15)",
+      "barrio": "Banzer-Beni 2do y 3ro (15)",
+      "zona": "Banzer-Beni 2do y 3ro (15)",
+      "sector": "Banzer-Beni 2do y 3ro (15)",
+      "coordenadas": {
+        "lat": -17.710374,
+        "lng": -63.136211
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1983,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Beni-Alemana 2do y 3ro (16)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 324944,
+      "superficie_m2": 366,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Beni-Alemana 2do y 3ro (16)",
+      "barrio": "Beni-Alemana 2do y 3ro (16)",
+      "zona": "Beni-Alemana 2do y 3ro (16)",
+      "sector": "Beni-Alemana 2do y 3ro (16)",
+      "coordenadas": {
+        "lat": -17.770507,
+        "lng": -63.198042
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 887,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Beni-Alemana 3ro y 4to (38-39)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 259015,
+      "superficie_m2": 158,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 24,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Beni-Alemana 3ro y 4to (38-39)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "paddle_tennis",
+        "turco",
+        "gimnasio_box",
+        "jardines",
+        "sala_cine",
+        "piscina_comunitaria",
+        "rooftop"
+      ],
+      "cuota_mantenimiento": 384
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Beni-Alemana 3ro y 4to (38-39)",
+      "barrio": "Beni-Alemana 3ro y 4to (38-39)",
+      "zona": "Beni-Alemana 3ro y 4to (38-39)",
+      "sector": "Beni-Alemana 3ro y 4to (38-39)",
+      "coordenadas": {
+        "lat": -17.782701,
+        "lng": -63.107836
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1639,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en R27-Banzer 4to y 5to (63-64)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 389171,
+      "superficie_m2": 329,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio R27-Banzer 4to y 5to (63-64)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio_box",
+        "rooftop"
+      ],
+      "cuota_mantenimiento": 345
+    },
+    "ubicacion": {
+      "direccion": "Dirección en R27-Banzer 4to y 5to (63-64)",
+      "barrio": "R27-Banzer 4to y 5to (63-64)",
+      "zona": "R27-Banzer 4to y 5to (63-64)",
+      "sector": "R27-Banzer 4to y 5to (63-64)",
+      "coordenadas": {
+        "lat": -17.700911,
+        "lng": -63.139416
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1182,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Beni-Alemana 4to y 5to (65)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 369682,
+      "superficie_m2": 263,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 11,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Beni-Alemana 4to y 5to (65)",
+      "barrio": "Beni-Alemana 4to y 5to (65)",
+      "zona": "Beni-Alemana 4to y 5to (65)",
+      "sector": "Beni-Alemana 4to y 5to (65)",
+      "coordenadas": {
+        "lat": -17.703581,
+        "lng": -63.174668
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1405,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Banzer-Beni 4to y 5to (66)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 200802,
+      "superficie_m2": 240,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 12,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Banzer-Beni 4to y 5to (66)",
+      "barrio": "Banzer-Beni 4to y 5to (66)",
+      "zona": "Banzer-Beni 4to y 5to (66)",
+      "sector": "Banzer-Beni 4to y 5to (66)",
+      "coordenadas": {
+        "lat": -17.790417,
+        "lng": -63.134133
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 836,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en R26-R27 norte",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 321842,
+      "superficie_m2": 263,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Zona Norte",
+      "seguridad_24h": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "sala_estar_social",
+        "gimnasio_box",
+        "sauna",
+        "area_niños",
+        "cancha_tenis",
+        "gimnasio",
+        "jardines"
+      ],
+      "cuota_mantenimiento": 141
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Zona Norte",
+      "barrio": "R26-R27 norte",
+      "zona": "Zona Norte",
+      "sector": "Zona Norte",
+      "coordenadas": {
+        "lat": -17.726204,
+        "lng": -63.164833
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1223,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Ucebol (68)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 262746,
+      "superficie_m2": 104,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Ucebol (68)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "solarium"
+      ],
+      "cuota_mantenimiento": 434
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Ucebol (68)",
+      "barrio": "Ucebol (68)",
+      "zona": "Ucebol (68)",
+      "sector": "Ucebol (68)",
+      "coordenadas": {
+        "lat": -17.784162,
+        "lng": -63.132336
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2526,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Banzer-Alemana 5to y 6to (69-70)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 216721,
+      "superficie_m2": 156,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 11,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Banzer-Alemana 5to y 6to (69-70)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_cine",
+        "gimnasio",
+        "seguridad_24h"
+      ],
+      "cuota_mantenimiento": 168
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Banzer-Alemana 5to y 6to (69-70)",
+      "barrio": "Banzer-Alemana 5to y 6to (69-70)",
+      "zona": "Banzer-Alemana 5to y 6to (69-70)",
+      "sector": "Banzer-Alemana 5to y 6to (69-70)",
+      "coordenadas": {
+        "lat": -17.761732,
+        "lng": -63.106216
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1389,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Banzer 6to y 7mo (71-72-214)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 346160,
+      "superficie_m2": 381,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Banzer 6to y 7mo (71-72-214)",
+      "barrio": "Banzer 6to y 7mo (71-72-214)",
+      "zona": "Banzer 6to y 7mo (71-72-214)",
+      "sector": "Banzer 6to y 7mo (71-72-214)",
+      "coordenadas": {
+        "lat": -17.745247,
+        "lng": -63.102839
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 908,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Remanso 1 (75 a77-193-211-331 a 349)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 164226,
+      "superficie_m2": 143,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Remanso 1 (75 a77-193-211-331 a 349)",
+      "barrio": "Remanso 1 (75 a77-193-211-331 a 349)",
+      "zona": "Remanso 1 (75 a77-193-211-331 a 349)",
+      "sector": "Remanso 1 (75 a77-193-211-331 a 349)",
+      "coordenadas": {
+        "lat": -17.713241,
+        "lng": -63.152548
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1148,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Banzer 6to a 8vo-Cambodromo 5to a 8vo",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 178284,
+      "superficie_m2": 125,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 16,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Banzer 6to a 8vo-Cambodromo 5to a 8vo",
+      "seguridad_24h": true,
+      "amenidades": [
+        "lavanderia_comunitaria",
+        "cancha_tenis"
+      ],
+      "cuota_mantenimiento": 129
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Banzer 6to a 8vo-Cambodromo 5to a 8vo",
+      "barrio": "Banzer 6to a 8vo-Cambodromo 5to a 8vo",
+      "zona": "Banzer 6to a 8vo-Cambodromo 5to a 8vo",
+      "sector": "Banzer 6to a 8vo-Cambodromo 5to a 8vo",
+      "coordenadas": {
+        "lat": -17.734393,
+        "lng": -63.193654
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1426,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Remanso 2 (340 a 348)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 278991,
+      "superficie_m2": 250,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 4,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 8,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Remanso 2 (340 a 348)",
+      "barrio": "Remanso 2 (340 a 348)",
+      "zona": "Remanso 2 (340 a 348)",
+      "sector": "Remanso 2 (340 a 348)",
+      "coordenadas": {
+        "lat": -17.796093,
+        "lng": -63.137331
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1115,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en El vallecito (218-220)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 112785,
+      "superficie_m2": 54,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 6,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio El vallecito (218-220)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "cancha_tenis"
+      ],
+      "cuota_mantenimiento": 442
+    },
+    "ubicacion": {
+      "direccion": "Dirección en El vallecito (218-220)",
+      "barrio": "El vallecito (218-220)",
+      "zona": "El vallecito (218-220)",
+      "sector": "El vallecito (218-220)",
+      "coordenadas": {
+        "lat": -17.728425,
+        "lng": -63.193687
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2088,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Sevillas",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 352225,
+      "superficie_m2": 222,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Sevillas",
+      "barrio": "Sevillas",
+      "zona": "Sevillas",
+      "sector": "Sevillas",
+      "coordenadas": {
+        "lat": -17.718088,
+        "lng": -63.134355
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1586,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Paraiso-Valle Sanchez",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 117090,
+      "superficie_m2": 77,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 14,
+      "estado_conservacion": "excelente",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Paraiso-Valle Sanchez",
+      "barrio": "Paraiso-Valle Sanchez",
+      "zona": "Paraiso-Valle Sanchez",
+      "sector": "Paraiso-Valle Sanchez",
+      "coordenadas": {
+        "lat": -17.781937,
+        "lng": -63.184129
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1520,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Cambodromo-Alemana 4to y 5to (67)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 142924,
+      "superficie_m2": 110,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 24,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Cambodromo-Alemana 4to y 5to (67)",
+      "barrio": "Cambodromo-Alemana 4to y 5to (67)",
+      "zona": "Cambodromo-Alemana 4to y 5to (67)",
+      "sector": "Cambodromo-Alemana 4to y 5to (67)",
+      "coordenadas": {
+        "lat": -17.797919,
+        "lng": -63.104519
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1299,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Alemana-Paragua 3ro y 4to (40-41)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 181460,
+      "superficie_m2": 80,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 25,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Alemana-Paragua 3ro y 4to (40-41)",
+      "barrio": "Alemana-Paragua 3ro y 4to (40-41)",
+      "zona": "Alemana-Paragua 3ro y 4to (40-41)",
+      "sector": "Alemana-Paragua 3ro y 4to (40-41)",
+      "coordenadas": {
+        "lat": -17.732819,
+        "lng": -63.195076
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2268,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Paragua-Canal Cotoca 3ro y 4to (40-41-42)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 170488,
+      "superficie_m2": 73,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Paragua-Canal Cotoca 3ro y 4to (40-41-42)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "cancha_tenis",
+        "piscina_comunitaria"
+      ],
+      "cuota_mantenimiento": 332
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Paragua-Canal Cotoca 3ro y 4to (40-41-42)",
+      "barrio": "Paragua-Canal Cotoca 3ro y 4to (40-41-42)",
+      "zona": "Paragua-Canal Cotoca 3ro y 4to (40-41-42)",
+      "sector": "Paragua-Canal Cotoca 3ro y 4to (40-41-42)",
+      "coordenadas": {
+        "lat": -17.708117,
+        "lng": -63.180321
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2335,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Alemana-Canal Cotoca (17-19)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 235481,
+      "superficie_m2": 179,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 11,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Alemana-Canal Cotoca (17-19)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "seguridad_24h",
+        "turco",
+        "solarium",
+        "cancha_tenis"
+      ],
+      "cuota_mantenimiento": 431
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Alemana-Canal Cotoca (17-19)",
+      "barrio": "Alemana-Canal Cotoca (17-19)",
+      "zona": "Alemana-Canal Cotoca (17-19)",
+      "sector": "Alemana-Canal Cotoca (17-19)",
+      "coordenadas": {
+        "lat": -17.772451,
+        "lng": -63.137132
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1315,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Landivar-Beni 1er y 2do (12-14)",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 367402,
+      "superficie_m2": 393,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 12,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Landivar-Beni 1er y 2do (12-14)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "seguridad_24h"
+      ],
+      "cuota_mantenimiento": 484
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Landivar-Beni 1er y 2do (12-14)",
+      "barrio": "Landivar-Beni 1er y 2do (12-14)",
+      "zona": "Landivar-Beni 1er y 2do (12-14)",
+      "sector": "Landivar-Beni 1er y 2do (12-14)",
+      "coordenadas": {
+        "lat": -17.732098,
+        "lng": -63.126121
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 934,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en Av. Brasil-Beni 1er y 2do (1-2-4)",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 356975,
+      "superficie_m2": 247,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 19,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Av. Brasil-Beni 1er y 2do (1-2-4)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "solarium",
+        "turco",
+        "sala_estar_social",
+        "gimnasio_box",
+        "gimnasio",
+        "jardines",
+        "sala_cine"
+      ],
+      "cuota_mantenimiento": 166
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Av. Brasil-Beni 1er y 2do (1-2-4)",
+      "barrio": "Av. Brasil-Beni 1er y 2do (1-2-4)",
+      "zona": "Av. Brasil-Beni 1er y 2do (1-2-4)",
+      "sector": "Av. Brasil-Beni 1er y 2do (1-2-4)",
+      "coordenadas": {
+        "lat": -17.763641,
+        "lng": -63.113031
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1445,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en La ramada",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 382494,
+      "superficie_m2": 250,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 4,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 13,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en La ramada",
+      "barrio": "La ramada",
+      "zona": "La ramada",
+      "sector": "La ramada",
+      "coordenadas": {
+        "lat": -17.716482,
+        "lng": -63.110625
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1529,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Parque Urbano-Madre india",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 89707,
+      "superficie_m2": 79,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 5,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Parque Urbano-Madre india",
+      "barrio": "Parque Urbano-Madre india",
+      "zona": "Parque Urbano-Madre india",
+      "sector": "Parque Urbano-Madre india",
+      "coordenadas": {
+        "lat": -17.73548,
+        "lng": -63.107914
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1135,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Las Palmas",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 343544,
+      "superficie_m2": 344,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 10,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Las Palmas",
+      "seguridad_24h": true,
+      "amenidades": [
+        "paddle_tennis",
+        "seguridad_24h",
+        "piscina_comunitaria",
+        "sala_cine",
+        "lavanderia_comunitaria"
+      ],
+      "cuota_mantenimiento": 339
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Las Palmas",
+      "barrio": "Las Palmas",
+      "zona": "Las Palmas",
+      "sector": "Las Palmas",
+      "coordenadas": {
+        "lat": -17.781641,
+        "lng": -63.126434
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 998,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "muy_alta",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Las Americas",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 264118,
+      "superficie_m2": 112,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 22,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Las Americas",
+      "barrio": "Las Americas",
+      "zona": "Las Americas",
+      "sector": "Las Americas",
+      "coordenadas": {
+        "lat": -17.703849,
+        "lng": -63.16878
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2358,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en San Aurelio",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 275791,
+      "superficie_m2": 238,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 19,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio San Aurelio",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sauna",
+        "turco",
+        "piscina_comunitaria"
+      ],
+      "cuota_mantenimiento": 159
+    },
+    "ubicacion": {
+      "direccion": "Dirección en San Aurelio",
+      "barrio": "San Aurelio",
+      "zona": "San Aurelio",
+      "sector": "San Aurelio",
+      "coordenadas": {
+        "lat": -17.711145,
+        "lng": -63.169619
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1158,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en Virgen de cotoca",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 222856,
+      "superficie_m2": 207,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 20,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Virgen de cotoca",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio_box",
+        "seguridad_24h",
+        "sala_cine",
+        "rooftop",
+        "sala_estar_social"
+      ],
+      "cuota_mantenimiento": 338
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Virgen de cotoca",
+      "barrio": "Virgen de cotoca",
+      "zona": "Virgen de cotoca",
+      "sector": "Virgen de cotoca",
+      "coordenadas": {
+        "lat": -17.74742,
+        "lng": -63.159032
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1076,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Roca y coronado-Piraí 2do y 3ro (30-32)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 230079,
+      "superficie_m2": 190,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Roca y coronado-Piraí 2do y 3ro (30-32)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "area_niños",
+        "solarium",
+        "gimnasio_box"
+      ],
+      "cuota_mantenimiento": 483
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Roca y coronado-Piraí 2do y 3ro (30-32)",
+      "barrio": "Roca y coronado-Piraí 2do y 3ro (30-32)",
+      "zona": "Roca y coronado-Piraí 2do y 3ro (30-32)",
+      "sector": "Roca y coronado-Piraí 2do y 3ro (30-32)",
+      "coordenadas": {
+        "lat": -17.791988,
+        "lng": -63.100344
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1210,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Roca y coronado-Piraí 3ro y 4to (54-56)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 358106,
+      "superficie_m2": 346,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 4,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 8,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Roca y coronado-Piraí 3ro y 4to (54-56)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "seguridad_24h",
+        "sala_cine",
+        "sauna"
+      ],
+      "cuota_mantenimiento": 324
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Roca y coronado-Piraí 3ro y 4to (54-56)",
+      "barrio": "Roca y coronado-Piraí 3ro y 4to (54-56)",
+      "zona": "Roca y coronado-Piraí 3ro y 4to (54-56)",
+      "sector": "Roca y coronado-Piraí 3ro y 4to (54-56)",
+      "coordenadas": {
+        "lat": -17.753991,
+        "lng": -63.171045
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1034,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Roca y coronado-Piraí 4to y 5to (111-112-113)",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 202741,
+      "superficie_m2": 200,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 13,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Roca y coronado-Piraí 4to y 5to (111-112-113)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "paddle_tennis",
+        "area_niños",
+        "lavanderia_comunitaria",
+        "gimnasio"
+      ],
+      "cuota_mantenimiento": 97
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Roca y coronado-Piraí 4to y 5to (111-112-113)",
+      "barrio": "Roca y coronado-Piraí 4to y 5to (111-112-113)",
+      "zona": "Roca y coronado-Piraí 4to y 5to (111-112-113)",
+      "sector": "Roca y coronado-Piraí 4to y 5to (111-112-113)",
+      "coordenadas": {
+        "lat": -17.748939,
+        "lng": -63.169515
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1013,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Alto las palmas",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 231783,
+      "superficie_m2": 236,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 0,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Las Palmas",
+      "barrio": "Alto las palmas",
+      "zona": "Las Palmas",
+      "sector": "Las Palmas",
+      "coordenadas": {
+        "lat": -17.746614,
+        "lng": -63.101015
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 982,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Doble vía-Av. Moscú (117)",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 276313,
+      "superficie_m2": 155,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 7,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Doble vía-Av. Moscú (117)",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio",
+        "area_barbacoa",
+        "seguridad_24h",
+        "jardines",
+        "lavanderia_comunitaria",
+        "cancha_tenis",
+        "turco",
+        "gimnasio_box"
+      ],
+      "cuota_mantenimiento": 136
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Doble vía-Av. Moscú (117)",
+      "barrio": "Doble vía-Av. Moscú (117)",
+      "zona": "Doble vía-Av. Moscú (117)",
+      "sector": "Doble vía-Av. Moscú (117)",
+      "coordenadas": {
+        "lat": -17.745818,
+        "lng": -63.111568
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1782,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en Centro",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 308864,
+      "superficie_m2": 218,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 11,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Centro Histórico",
+      "seguridad_24h": true,
+      "amenidades": [
+        "estacionamiento_visitas",
+        "sauna",
+        "sala_cine",
+        "paddle_tennis",
+        "solarium",
+        "lavanderia_comunitaria"
+      ],
+      "cuota_mantenimiento": 65
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Centro Histórico",
+      "barrio": "Centro",
+      "zona": "Centro Histórico",
+      "sector": "Centro Histórico",
+      "coordenadas": {
+        "lat": -17.747666,
+        "lng": -63.18285
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1416,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Urubo",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 329207,
+      "superficie_m2": 358,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 6,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio Urubó",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sauna",
+        "solarium",
+        "jardines"
+      ],
+      "cuota_mantenimiento": 436
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Urubó",
+      "barrio": "Urubo",
+      "zona": "Urubó",
+      "sector": "Urubó",
+      "coordenadas": {
+        "lat": -17.750305,
+        "lng": -63.123302
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 919,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en Urbari",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 170267,
+      "superficie_m2": 142,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "nuevo",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Urbari",
+      "barrio": "Urbari",
+      "zona": "Urbari",
+      "sector": "Urbari",
+      "coordenadas": {
+        "lat": -17.741412,
+        "lng": -63.132678
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1199,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en Sur",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 106912,
+      "superficie_m2": 47,
+      "habitaciones": 1,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Zona Sur",
+      "barrio": "Sur",
+      "zona": "Zona Sur",
+      "sector": "Zona Sur",
+      "coordenadas": {
+        "lat": -17.743025,
+        "lng": -63.17591
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2274,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio_bajo"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en ",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 191193,
+      "superficie_m2": 95,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.718193,
+        "lng": -63.169114
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2012,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en ",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 317806,
+      "superficie_m2": 328,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 17,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "rooftop",
+        "area_niños"
+      ],
+      "cuota_mantenimiento": 433
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.772956,
+        "lng": -63.122632
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 968,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 280585,
+      "superficie_m2": 203,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.744973,
+        "lng": -63.112425
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1382,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 339243,
+      "superficie_m2": 351,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 12,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "estacionamiento_visitas"
+      ],
+      "cuota_mantenimiento": 123
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.737139,
+        "lng": -63.150445
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 966,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Townhouse en ",
+    "tipo": "Townhouse",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 289567,
+      "superficie_m2": 165,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 21,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "rooftop",
+        "seguridad_24h",
+        "solarium"
+      ],
+      "cuota_mantenimiento": 163
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.729086,
+        "lng": -63.148581
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1754,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 143697,
+      "superficie_m2": 63,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.770202,
+        "lng": -63.173417
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2280,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 137919,
+      "superficie_m2": 93,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 23,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "paddle_tennis",
+        "sauna",
+        "area_barbacoa",
+        "sala_cine",
+        "lavanderia_comunitaria",
+        "area_niños",
+        "estacionamiento_visitas"
+      ],
+      "cuota_mantenimiento": 168
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.762085,
+        "lng": -63.176792
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1483,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 205688,
+      "superficie_m2": 235,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 24,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.710914,
+        "lng": -63.184325
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 875,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en ",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 166802,
+      "superficie_m2": 131,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 24,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.722597,
+        "lng": -63.18386
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1273,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 99412,
+      "superficie_m2": 62,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio",
+        "jardines",
+        "sala_cine",
+        "piscina_comunitaria",
+        "sala_estar_social",
+        "turco",
+        "paddle_tennis"
+      ],
+      "cuota_mantenimiento": 219
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.72074,
+        "lng": -63.174138
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1603,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 344594,
+      "superficie_m2": 305,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 4,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "seguridad_24h",
+        "area_niños",
+        "turco",
+        "gimnasio_box",
+        "cancha_tenis",
+        "sauna"
+      ],
+      "cuota_mantenimiento": 139
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.709508,
+        "lng": -63.126817
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1129,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 230754,
+      "superficie_m2": 137,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 13,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "estacionamiento_visitas",
+        "piscina_comunitaria",
+        "gimnasio",
+        "rooftop",
+        "cancha_tenis"
+      ],
+      "cuota_mantenimiento": 442
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.77152,
+        "lng": -63.108049
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1684,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 88376,
+      "superficie_m2": 55,
+      "habitaciones": 1,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.734126,
+        "lng": -63.144018
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1606,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 248724,
+      "superficie_m2": 165,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 18,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "solarium",
+        "area_barbacoa"
+      ],
+      "cuota_mantenimiento": 267
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.743567,
+        "lng": -63.121744
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1507,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:36"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en La ramada",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 148026,
+      "superficie_m2": 117,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 8,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en La ramada",
+      "barrio": "La ramada",
+      "zona": "La ramada",
+      "sector": "La ramada",
+      "coordenadas": {
+        "lat": -17.789069,
+        "lng": -63.137792
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1265,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en La ramada",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 385563,
+      "superficie_m2": 262,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 14,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio La ramada",
+      "seguridad_24h": true,
+      "amenidades": [
+        "area_niños",
+        "paddle_tennis",
+        "lavanderia_comunitaria",
+        "seguridad_24h",
+        "gimnasio_box",
+        "area_barbacoa",
+        "jardines"
+      ],
+      "cuota_mantenimiento": 327
+    },
+    "ubicacion": {
+      "direccion": "Dirección en La ramada",
+      "barrio": "La ramada",
+      "zona": "La ramada",
+      "sector": "La ramada",
+      "coordenadas": {
+        "lat": -17.724459,
+        "lng": -63.143439
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1471,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en La ramada",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 140388,
+      "superficie_m2": 133,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 20,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en La ramada",
+      "barrio": "La ramada",
+      "zona": "La ramada",
+      "sector": "La ramada",
+      "coordenadas": {
+        "lat": -17.726722,
+        "lng": -63.152838
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1055,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en La ramada",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 193774,
+      "superficie_m2": 130,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio La ramada",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_cine",
+        "cancha_tenis",
+        "area_barbacoa",
+        "sauna",
+        "area_niños",
+        "sala_estar_social",
+        "gimnasio_box"
+      ],
+      "cuota_mantenimiento": 201
+    },
+    "ubicacion": {
+      "direccion": "Dirección en La ramada",
+      "barrio": "La ramada",
+      "zona": "La ramada",
+      "sector": "La ramada",
+      "coordenadas": {
+        "lat": -17.781044,
+        "lng": -63.131067
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1490,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 137180,
+      "superficie_m2": 84,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "excelente",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "turco",
+        "sala_estar_social",
+        "cancha_tenis",
+        "gimnasio_box",
+        "rooftop",
+        "piscina_comunitaria",
+        "solarium",
+        "sala_cine"
+      ],
+      "cuota_mantenimiento": 221
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.743595,
+        "lng": -63.131514
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1633,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en Baño",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 168619,
+      "superficie_m2": 72,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 10,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en Baño",
+      "barrio": "Baño",
+      "zona": "Baño",
+      "sector": "Baño",
+      "coordenadas": {
+        "lat": -17.766071,
+        "lng": -63.163509
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2341,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en 1",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 388702,
+      "superficie_m2": 212,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 12,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio 1",
+      "seguridad_24h": true,
+      "amenidades": [
+        "cancha_tenis",
+        "sala_estar_social",
+        "area_niños",
+        "gimnasio",
+        "sala_cine",
+        "turco"
+      ],
+      "cuota_mantenimiento": 130
+    },
+    "ubicacion": {
+      "direccion": "Dirección en 1",
+      "barrio": "1",
+      "zona": "1",
+      "sector": "1",
+      "coordenadas": {
+        "lat": -17.713169,
+        "lng": -63.176875
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1833,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en ",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 112685,
+      "superficie_m2": 62,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 12,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.792618,
+        "lng": -63.146645
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1817,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en 1",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 162582,
+      "superficie_m2": 83,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 16,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio 1",
+      "seguridad_24h": true,
+      "amenidades": [
+        "piscina_comunitaria"
+      ],
+      "cuota_mantenimiento": 272
+    },
+    "ubicacion": {
+      "direccion": "Dirección en 1",
+      "barrio": "1",
+      "zona": "1",
+      "sector": "1",
+      "coordenadas": {
+        "lat": -17.710608,
+        "lng": -63.100343
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1958,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en 1",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 124257,
+      "superficie_m2": 103,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en 1",
+      "barrio": "1",
+      "zona": "1",
+      "sector": "1",
+      "coordenadas": {
+        "lat": -17.74478,
+        "lng": -63.175508
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1206,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en 1",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 350530,
+      "superficie_m2": 188,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 5,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio 1",
+      "seguridad_24h": true,
+      "amenidades": [
+        "solarium",
+        "jardines",
+        "area_niños"
+      ],
+      "cuota_mantenimiento": 444
+    },
+    "ubicacion": {
+      "direccion": "Dirección en 1",
+      "barrio": "1",
+      "zona": "1",
+      "sector": "1",
+      "coordenadas": {
+        "lat": -17.759152,
+        "lng": -63.113864
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1864,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en 1",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 115651,
+      "superficie_m2": 80,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 25,
+      "estado_conservacion": "excelente",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio 1",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sauna",
+        "area_niños",
+        "solarium",
+        "estacionamiento_visitas",
+        "sala_estar_social",
+        "turco",
+        "jardines",
+        "piscina_comunitaria"
+      ],
+      "cuota_mantenimiento": 322
+    },
+    "ubicacion": {
+      "direccion": "Dirección en 1",
+      "barrio": "1",
+      "zona": "1",
+      "sector": "1",
+      "coordenadas": {
+        "lat": -17.758299,
+        "lng": -63.172414
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1445,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 200095,
+      "superficie_m2": 219,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 4,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 9,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.792035,
+        "lng": -63.170921
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 913,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 182801,
+      "superficie_m2": 67,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 22,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_cine",
+        "solarium",
+        "jardines",
+        "sala_estar_social",
+        "area_niños",
+        "seguridad_24h"
+      ],
+      "cuota_mantenimiento": 380
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.746007,
+        "lng": -63.106394
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2728,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 364896,
+      "superficie_m2": 362,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 19,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "seguridad_24h"
+      ],
+      "cuota_mantenimiento": 119
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.739097,
+        "lng": -63.163685
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1008,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 276827,
+      "superficie_m2": 220,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 4,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "estacionamiento_visitas"
+      ],
+      "cuota_mantenimiento": 152
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.792557,
+        "lng": -63.14702
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1258,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 183371,
+      "superficie_m2": 113,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "nuevo",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "jardines"
+      ],
+      "cuota_mantenimiento": 395
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.746818,
+        "lng": -63.142253
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1622,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 130394,
+      "superficie_m2": 105,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 10,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio_box"
+      ],
+      "cuota_mantenimiento": 417
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.714406,
+        "lng": -63.105586
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1241,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 334356,
+      "superficie_m2": 371,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 6,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "area_niños",
+        "lavanderia_comunitaria",
+        "seguridad_24h",
+        "piscina_comunitaria"
+      ],
+      "cuota_mantenimiento": 297
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.780966,
+        "lng": -63.128177
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 901,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 132768,
+      "superficie_m2": 65,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 4,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_estar_social",
+        "turco"
+      ],
+      "cuota_mantenimiento": 65
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.7177,
+        "lng": -63.167576
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2042,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en ",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 345183,
+      "superficie_m2": 295,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 15,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.770275,
+        "lng": -63.102789
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1170,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 133712,
+      "superficie_m2": 61,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 4,
+      "estado_conservacion": "nuevo",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.742576,
+        "lng": -63.142506
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2192,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 112885,
+      "superficie_m2": 44,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "regular",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.75918,
+        "lng": -63.12986
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2565,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 377825,
+      "superficie_m2": 192,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 23,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.792641,
+        "lng": -63.181774
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1967,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 121853,
+      "superficie_m2": 145,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 17,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "solarium",
+        "gimnasio",
+        "turco",
+        "cancha_tenis",
+        "sala_estar_social"
+      ],
+      "cuota_mantenimiento": 222
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.771642,
+        "lng": -63.137702
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 840,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 379659,
+      "superficie_m2": 234,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 5,
+      "estado_conservacion": "muy_bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "paddle_tennis"
+      ],
+      "cuota_mantenimiento": 228
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.765542,
+        "lng": -63.191319
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1622,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 321747,
+      "superficie_m2": 348,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 17,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "turco",
+        "gimnasio_box",
+        "gimnasio",
+        "sala_cine"
+      ],
+      "cuota_mantenimiento": 203
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.782559,
+        "lng": -63.102078
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 924,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 265430,
+      "superficie_m2": 235,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 8,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio",
+        "turco",
+        "area_barbacoa",
+        "solarium",
+        "piscina_comunitaria",
+        "cancha_tenis",
+        "sauna"
+      ],
+      "cuota_mantenimiento": 392
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.72531,
+        "lng": -63.150096
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1129,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 292854,
+      "superficie_m2": 201,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 25,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "gimnasio_box",
+        "area_barbacoa",
+        "estacionamiento_visitas",
+        "sauna",
+        "cancha_tenis",
+        "rooftop",
+        "area_niños"
+      ],
+      "cuota_mantenimiento": 135
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.750649,
+        "lng": -63.13575
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1456,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 289382,
+      "superficie_m2": 168,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 24,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "solarium",
+        "lavanderia_comunitaria",
+        "jardines",
+        "gimnasio_box",
+        "sauna",
+        "cancha_tenis",
+        "sala_estar_social",
+        "gimnasio"
+      ],
+      "cuota_mantenimiento": 480
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.722227,
+        "lng": -63.107592
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1722,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": false,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 136779,
+      "superficie_m2": 124,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 2,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "excelente",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": false,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.705888,
+        "lng": -63.157146
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1103,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 140608,
+      "superficie_m2": 127,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 13,
+      "estado_conservacion": "muy_bueno",
+      "balcon": true,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": true,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.752082,
+        "lng": -63.186427
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1107,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": false,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 227793,
+      "superficie_m2": 219,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 3,
+      "banos_medios": 0,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 17,
+      "estado_conservacion": "bueno",
+      "balcon": false,
+      "terraza": false,
+      "piscina_privada": false,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.708202,
+        "lng": -63.126604
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1040,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": false,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Casa en ",
+    "tipo": "Casa",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 327318,
+      "superficie_m2": 252,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 4,
+      "banos_medios": 2,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 25,
+      "estado_conservacion": "excelente",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": false,
+      "jardin_privado": true,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "cancha_tenis",
+        "estacionamiento_visitas",
+        "area_niños",
+        "turco",
+        "sala_cine",
+        "sala_estar_social"
+      ],
+      "cuota_mantenimiento": 111
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.790007,
+        "lng": -63.106225
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1298,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": false
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Loft en ",
+    "tipo": "Loft",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 362686,
+      "superficie_m2": 212,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 18,
+      "estado_conservacion": "regular",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": false,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "amenidades": [],
+      "cuota_mantenimiento": 0
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.764612,
+        "lng": -63.118053
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1710,
+      "plusvalia_tendencia": "decreciente",
+      "demanda_sector": "media",
+      "seguridad_zona": "alta",
+      "nivel_socioeconomico": "alto"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  },
+  {
+    "id": "prop_001",
+    "nombre": "Departamento en ",
+    "tipo": "Departamento",
+    "proyecto_origen": "Acuario",
+    "caracteristicas_principales": {
+      "precio": 110648,
+      "superficie_m2": 76,
+      "habitaciones": 2,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 17,
+      "estado_conservacion": "bueno",
+      "balcon": true,
+      "terraza": true,
+      "piscina_privada": true,
+      "jardin_privado": false,
+      "aire_acondicionado": true,
+      "cocina_independiente": true,
+      "lavanderia": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Condominio ",
+      "seguridad_24h": true,
+      "amenidades": [
+        "sala_cine",
+        "gimnasio",
+        "lavanderia_comunitaria",
+        "turco",
+        "piscina_comunitaria",
+        "paddle_tennis",
+        "sauna"
+      ],
+      "cuota_mantenimiento": 445
+    },
+    "ubicacion": {
+      "direccion": "Dirección en ",
+      "barrio": "",
+      "zona": "",
+      "sector": "",
+      "coordenadas": {
+        "lat": -17.783407,
+        "lng": -63.179473
+      }
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1455,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "baja",
+      "nivel_socioeconomico": "medio"
+    },
+    "documentacion": {
+      "escrituras": true,
+      "impuestos_pagados": true,
+      "servicios_basicos": true,
+      "certificado_inmobiliario": true
+    },
+    "fecha_registro": "2025-09-21 20:32:37"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "nombre": "Familia Martínez López",
+    "composicion_familiar": {
+      "adultos": 2,
+      "ninos": [
+        {"edad": 8},
+        {"edad": 12}
+      ],
+      "adultos_mayores": 0
+    },
+    "presupuesto": {
+      "min": 250000,
+      "max": 350000,
+      "tipo": "compra"
+    },
+    "necesidades": [
+      "escuela_primaria",
+      "supermercado"
+    ],
+    "preferencias": {
+      "seguridad": "alta",
+      "ubicacion": "norte",
+      "caracteristicas_deseadas": ["garaje", "piscina", "seguridad"]
+    }
+  },
+  {
+    "nombre": "Pareja Joven Profesional",
+    "composicion_familiar": {
+      "adultos": 2,
+      "ninos": [],
+      "adultos_mayores": 0
+    },
+    "presupuesto": {
+      "min": 180000,
+      "max": 250000,
+      "tipo": "compra"
+    },
+    "necesidades": [
+      "universidad",
+      "comercio"
+    ],
+    "preferencias": {
+      "ubicacion": "centro",
+      "tipo_propiedad": "apartamento",
+      "caracteristicas_deseadas": ["gimnasio", "aire_acondicionado"]
+    }
+  },
+  {
+    "nombre": "Adulto Mayor Jubilado",
+    "composicion_familiar": {
+      "adultos": 1,
+      "ninos": [],
+      "adultos_mayores": 1
+    },
+    "presupuesto": {
+      "min": 120000,
+      "max": 180000,
+      "tipo": "compra"
+    },
+    "necesidades": [
+      "hospital",
+      "supermercado"
+    ],
+    "preferencias": {
+      "seguridad": "alta",
+      "ubicacion": "zona tranquila",
+      "caracteristicas_deseadas": ["seguridad_24h", "ascensor"]
+    }
+  }
+]

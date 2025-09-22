@@ -1,0 +1,49 @@
+{
+  "id": "perfil_familia_001",
+  "nombre": "Familia Martínez López",
+  "descripcion": "Familia con hijos en edad escolar buscando primera vivienda",
+  "composicion_familiar": {
+    "adultos": 2,
+    "ninos": [
+      {"edad": 8, "sexo": "M", "nivel_educativo": "primaria"},
+      {"edad": 12, "sexo": "F", "nivel_educativo": "primaria"}
+    ],
+    "adultos_mayores": 0,
+    "mascotas": 1,
+    "vehiculos": 1
+  },
+  "presupuesto": {
+    "min": 180000,
+    "max": 250000,
+    "tipo": "compra",
+    "financiamiento": "credito_hipotecario",
+    "cuota_mensual_max": 2200,
+    "enganche_min": 45000
+  },
+  "necesidades": [
+    "escuela_primaria",
+    "supermercado",
+    "hospital",
+    "area_verde"
+  ],
+  "preferencias": {
+    "ubicacion": "norte_o_centro",
+    "seguridad": "alta",
+    "amoblado": false,
+    "estilo_propiedad": "departamento",
+    "caracteristicas_deseadas": [
+      "balcon",
+      "cocina_integral",
+      "estacionamiento",
+      "area_comunal"
+    ]
+  },
+  "prioridades": {
+    "educacion": "muy_alta",
+    "seguridad": "alta",
+    "espacio": "media",
+    "ubicacion": "alta",
+    "precio": "media"
+  },
+  "comentarios_adicionales": "Prospecto identificado por Franz (asesor Citrino). Familia con hijos en edad escolar buscando primera vivienda. Padre trabaja en zona norte, madre en centro. Tienen un perro pequeño. Necesitan buen acceso a escuelas primarias y supermercados. Citrino tiene propiedades disponibles en su rango de presupuesto en zona norte y centro."
+}

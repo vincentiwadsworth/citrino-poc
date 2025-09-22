@@ -1,0 +1,2204 @@
+[
+  {
+    "id": "prop_001",
+    "nombre": "Altos del Golf - Departamento 2D",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 185000,
+      "superficie_m2": 120,
+      "habitaciones": 3,
+      "dormitorios": 3,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "piso": 2,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "norte",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Altos del Golf",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social"
+      ],
+      "gastos_comunes_aprox": 350
+    },
+    "ubicacion": {
+      "direccion": "Av. Santos Dumont y 4to Anillo",
+      "barrio": "Altos del Golf",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol Este",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.182
+      },
+      "unidad_vecinal": "UV-34",
+      "manzana": "Mz-07",
+      "distrito_municipal": "3"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1500,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela Americana",
+          "direccion": "Av. Santos Dumont y 4to Anillo",
+          "distancia_m": 50,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio Alemán",
+          "direccion": "Calle España y 3er Anillo",
+          "distancia_m": 471,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Hipermaxi Equipetrol",
+          "direccion": "Av. Santos Dumont",
+          "distancia_m": 300,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica Foianini",
+          "direccion": "4to Anillo",
+          "distancia_m": 2000,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacia Saavedra",
+          "direccion": "Av. Santos Dumont",
+          "distancia_m": 100,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Parque Urbano Equipetrol",
+          "direccion": "Av. Santos Dumont",
+          "distancia_m": 400,
+          "tipo": "parque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_002",
+    "nombre": "Golden Tower - Studio 15A",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 95000,
+      "superficie_m2": 45,
+      "habitaciones": 1,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "piso": 15,
+      "amoblado": true,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "sur",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_integrada": true,
+      "lavanderia": false,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Golden Tower",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "sala_cine",
+        "rooftop",
+        "lavanderia_comunitaria"
+      ],
+      "gastos_comunes_aprox": 280
+    },
+    "ubicacion": {
+      "direccion": "Calle Junín esquina 21 de Mayo",
+      "barrio": "Centro",
+      "zona": "Centro Histórico",
+      "sector": "Casco Viejo",
+      "coordenadas": {
+        "lat": -17.786,
+        "lng": -63.185
+      },
+      "unidad_vecinal": "UV-12",
+      "manzana": "Mz-03",
+      "distrito_municipal": "1"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2100,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "muy_alta",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "servicios_cercanos": {
+      "universidad": [
+        {
+          "nombre": "Universidad Autónoma Gabriel René Moreno",
+          "direccion": "Av. Oquendo",
+          "distancia_m": 800,
+          "tipo": "publico"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Hipermaxi Centro",
+          "direccion": "Av. Santa Cruz",
+          "distancia_m": 200,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital Japonés",
+          "direccion": "Av. Irala",
+          "distancia_m": 500,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacia Boliviana",
+          "direccion": "Calle Junín",
+          "distancia_m": 50,
+          "tipo": "farmacia"
+        }
+      ],
+      "restaurante": [
+        {
+          "nombre": "Varios restaurantes",
+          "direccion": "Calle Junín",
+          "distancia_m": 100,
+          "tipo": "gastronomico"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_003",
+    "nombre": "Villa Magna - Casa 4A",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 320000,
+      "superficie_m2": 280,
+      "habitaciones": 4,
+      "dormitorios": 4,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "este",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": true,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Villa Magna",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social",
+        "cancha_tenis"
+      ],
+      "gastos_comunes_aprox": 450
+    },
+    "ubicacion": {
+      "direccion": "Calle 21 de Mayo y Av. Roque Aguilera",
+      "barrio": "Villa Magna",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol Norte",
+      "coordenadas": {
+        "lat": -17.779,
+        "lng": -63.178
+      },
+      "unidad_vecinal": "UV-35",
+      "manzana": "Mz-12",
+      "distrito_municipal": "3"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1600,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela Suiza",
+          "direccion": "Av. Roque Aguilera",
+          "distancia_m": 300,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio La Salle",
+          "direccion": "Av. Santos Dumont",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Hipermaxi Equipetrol",
+          "direccion": "Av. Santos Dumont",
+          "distancia_m": 600,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica Foianini",
+          "direccion": "4to Anillo",
+          "distancia_m": 1500,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Villa Magna",
+          "direccion": "Calle 21 de Mayo",
+          "distancia_m": 150,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Parque Villa Magna",
+          "direccion": "Calle 21 de Mayo",
+          "distancia_m": 200,
+          "tipo": "parque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_004",
+    "nombre": "Avanti Condominio - Dúplex 3B",
+    "tipo": "Dúplex",
+    "caracteristicas_principales": {
+      "precio": 145000,
+      "superficie_m2": 95,
+      "habitaciones": 2,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "piso": 3,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "muy_bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "oeste",
+      "balcon": true,
+      "terraza": true,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Avanti Condominio",
+      "seguridad_24h": true,
+      "porteria_24h": false,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa"
+      ],
+      "gastos_comunes_aprox": 220
+    },
+    "ubicacion": {
+      "direccion": "3er Anillo entre Av. Brasil y Av. Venezuela",
+      "barrio": "Avanti",
+      "zona": "3er Anillo",
+      "sector": "3er Anillo Oeste",
+      "coordenadas": {
+        "lat": -17.795,
+        "lng": -63.195
+      },
+      "unidad_vecinal": "UV-28",
+      "manzana": "Mz-15",
+      "distrito_municipal": "5"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1100,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "medio"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela San Ignacio",
+          "direccion": "3er Anillo",
+          "distancia_m": 400,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio Don Bosco",
+          "direccion": "Av. Brasil",
+          "distancia_m": 600,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado La Prensa",
+          "direccion": "3er Anillo",
+          "distancia_m": 200,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital Municipal",
+          "direccion": "Av. Oquendo",
+          "distancia_m": 1200,
+          "tipo": "publico"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp 3er Anillo",
+          "direccion": "3er Anillo",
+          "distancia_m": 250,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Plaza Avanti",
+          "direccion": "3er Anillo",
+          "distancia_m": 300,
+          "tipo": "plaza"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_005",
+    "nombre": "Inmoba Tower - Penthouse 20A",
+    "tipo": "Penthouse",
+    "caracteristicas_principales": {
+      "precio": 450000,
+      "superficie_m2": 220,
+      "habitaciones": 3,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "piso": 20,
+      "amoblado": true,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 0,
+      "estado_conservacion": "nuevo",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "norte",
+      "balcon": true,
+      "terraza": true,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Inmoba Tower",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "sala_cine",
+        "rooftop",
+        "lavanderia_comunitaria",
+        "spa",
+        "sala_eventos"
+      ],
+      "gastos_comunes_aprox": 550
+    },
+    "ubicacion": {
+      "direccion": "Av. Cañoto y Plaza 24 de Septiembre",
+      "barrio": "Centro",
+      "zona": "Centro Histórico",
+      "sector": "Casco Central",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.182
+      },
+      "unidad_vecinal": "UV-11",
+      "manzana": "Mz-02",
+      "distrito_municipal": "1"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2200,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "muy_alta",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "universidad": [
+        {
+          "nombre": "Universidad Autónoma Gabriel René Moreno",
+          "direccion": "Av. Oquendo",
+          "distancia_m": 500,
+          "tipo": "publico"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Hipermaxi Centro",
+          "direccion": "Av. Santa Cruz",
+          "distancia_m": 300,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital Japonés",
+          "direccion": "Av. Irala",
+          "distancia_m": 400,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacia Boliviana",
+          "direccion": "Calle Junín",
+          "distancia_m": 100,
+          "tipo": "farmacia"
+        }
+      ],
+      "restaurante": [
+        {
+          "nombre": "Varios restaurantes",
+          "direccion": "Plaza 24 de Septiembre",
+          "distancia_m": 50,
+          "tipo": "gastronomico"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Plaza 24 de Septiembre",
+          "direccion": "Centro",
+          "distancia_m": 50,
+          "tipo": "plaza"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_006",
+    "nombre": "Las Palmas Country - Casa 15C",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 380000,
+      "superficie_m2": 350,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 4,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "sur",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": true,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Las Palmas Country",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social",
+        "cancha_tennis",
+        "cancha_futbol"
+      ],
+      "gastos_comunes_aprox": 600
+    },
+    "ubicacion": {
+      "direccion": "Av. Las Palmas y 6to Anillo",
+      "barrio": "Las Palmas",
+      "zona": "Las Palmas",
+      "sector": "Las Palmas Norte",
+      "coordenadas": {
+        "lat": -17.750,
+        "lng": -63.150
+      },
+      "unidad_vecinal": "UV-41",
+      "manzana": "Mz-08",
+      "distrito_municipal": "8"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1400,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "regular",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Colegio Marymount",
+          "direccion": "Av. Las Palmas",
+          "distancia_m": 500,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio San Agustín",
+          "direccion": "Av. Las Palmas",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Las Palmas",
+          "direccion": "Av. Las Palmas",
+          "distancia_m": 600,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica CEMES",
+          "direccion": "6to Anillo",
+          "distancia_m": 2000,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Las Palmas",
+          "direccion": "Av. Las Palmas",
+          "distancia_m": 400,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Country Club Las Palmas",
+          "direccion": "Av. Las Palmas",
+          "distancia_m": 300,
+          "tipo": "club_social"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_007",
+    "nombre": "Urubó Park - Departamento 8B",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 165000,
+      "superficie_m2": 110,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "piso": 8,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 4,
+      "estado_conservacion": "muy_bueno",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "noroeste",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Urubó Park",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines"
+      ],
+      "gastos_comunes_aprox": 320
+    },
+    "ubicacion": {
+      "direccion": "Av. Urubó y 4to Anillo",
+      "barrio": "Urubó",
+      "zona": "Urubó",
+      "sector": "Urubó Este",
+      "coordenadas": {
+        "lat": -17.810,
+        "lng": -63.170
+      },
+      "unidad_vecinal": "UV-39",
+      "manzana": "Mz-11",
+      "distrito_municipal": "7"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1200,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela Urubó",
+          "direccion": "Av. Urubó",
+          "distancia_m": 200,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio Franco Boliviano",
+          "direccion": "Av. Urubó",
+          "distancia_m": 500,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Urubó",
+          "direccion": "Av. Urubó",
+          "distancia_m": 300,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica Urubó",
+          "direccion": "Av. Urubó",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Urubó",
+          "direccion": "Av. Urubó",
+          "distancia_m": 250,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Parque Urubó",
+          "direccion": "Av. Urubó",
+          "distancia_m": 400,
+          "tipo": "parque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_008",
+    "nombre": "Zona Norte Residencial - Casa 7D",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 275000,
+      "superficie_m2": 220,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 5,
+      "estado_conservacion": "bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "este",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "porteria_24h": false,
+      "camaras_seguridad": false,
+      "amenidades": [],
+      "gastos_comunes_aprox": 0
+    },
+    "ubicacion": {
+      "direccion": "Calle Los Laureles y Av. Mutualista",
+      "barrio": "Los Laureles",
+      "zona": "Zona Norte",
+      "sector": "Norte Residencial",
+      "coordenadas": {
+        "lat": -17.730,
+        "lng": -63.140
+      },
+      "unidad_vecinal": "UV-44",
+      "manzana": "Mz-20",
+      "distrito_municipal": "9"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1000,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "media",
+      "acceso_transporte": "regular",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela Los Laureles",
+          "direccion": "Calle Los Laureles",
+          "distancia_m": 300,
+          "tipo": "publico"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio La Salle Norte",
+          "direccion": "Av. Mutualista",
+          "distancia_m": 600,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Norte",
+          "direccion": "Av. Mutualista",
+          "distancia_m": 400,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital del Norte",
+          "direccion": "Av. Mutualista",
+          "distancia_m": 1500,
+          "tipo": "publico"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Norte",
+          "direccion": "Av. Mutualista",
+          "distancia_m": 350,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Parque Los Laureles",
+          "direccion": "Calle Los Laureles",
+          "distancia_m": 500,
+          "tipo": "parque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_009",
+    "nombre": "San Isidro Residencial - Departamento 5A",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 135000,
+      "superficie_m2": 85,
+      "habitaciones": 2,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "piso": 5,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 6,
+      "estado_conservacion": "bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "sur",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "San Isidro Residencial",
+      "seguridad_24h": true,
+      "porteria_24h": false,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "jardines"
+      ],
+      "gastos_comunes_aprox": 200
+    },
+    "ubicacion": {
+      "direccion": "Av. San Isidro y 2do Anillo",
+      "barrio": "San Isidro",
+      "zona": "San Isidro",
+      "sector": "San Isidro Centro",
+      "coordenadas": {
+        "lat": -17.760,
+        "lng": -63.190
+      },
+      "unidad_vecinal": "UV-32",
+      "manzana": "Mz-18",
+      "distrito_municipal": "6"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 900,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "medio"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela San Isidro",
+          "direccion": "Av. San Isidro",
+          "distancia_m": 250,
+          "tipo": "publico"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio San Isidro",
+          "direccion": "Av. San Isidro",
+          "distancia_m": 400,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado San Isidro",
+          "direccion": "Av. San Isidro",
+          "distancia_m": 300,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital San Isidro",
+          "direccion": "Av. San Isidro",
+          "distancia_m": 800,
+          "tipo": "publico"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp San Isidro",
+          "direccion": "Av. San Isidro",
+          "distancia_m": 200,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Plaza San Isidro",
+          "direccion": "Av. San Isidro",
+          "distancia_m": 350,
+          "tipo": "plaza"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_010",
+    "nombre": "Los Lotes Condominio - Casa 3E",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 420000,
+      "superficie_m2": 450,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 5,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 4
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "norte",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": true,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Los Lotes Condominio",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social",
+        "cancha_tennis",
+        "cancha_futbol",
+        "spa"
+      ],
+      "gastos_comunes_aprox": 750
+    },
+    "ubicacion": {
+      "direccion": "Av. Los Lotes y 7mo Anillo",
+      "barrio": "Los Lotes",
+      "zona": "Los Lotes",
+      "sector": "Los Lotes Este",
+      "coordenadas": {
+        "lat": -17.740,
+        "lng": -63.130
+      },
+      "unidad_vecinal": "UV-46",
+      "manzana": "Mz-05",
+      "distrito_municipal": "10"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1300,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "regular",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Colegio Los Lotes",
+          "direccion": "Av. Los Lotes",
+          "distancia_m": 600,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio Internacional",
+          "direccion": "Av. Los Lotes",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Los Lotes",
+          "direccion": "Av. Los Lotes",
+          "distancia_m": 500,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica Los Lotes",
+          "direccion": "Av. Los Lotes",
+          "distancia_m": 1200,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Los Lotes",
+          "direccion": "Av. Los Lotes",
+          "distancia_m": 450,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Country Club Los Lotes",
+          "direccion": "Av. Los Lotes",
+          "distancia_m": 300,
+          "tipo": "club_social"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_011",
+    "nombre": "El Dorado - Departamento 12C",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 195000,
+      "superficie_m2": 130,
+      "habitaciones": 3,
+      "dormitorios": 3,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "piso": 12,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 3,
+      "estado_conservacion": "muy_bueno",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "noreste",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "El Dorado",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social"
+      ],
+      "gastos_comunes_aprox": 380
+    },
+    "ubicacion": {
+      "direccion": "Av. El Dorado y 3er Anillo",
+      "barrio": "El Dorado",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol Oeste",
+      "coordenadas": {
+        "lat": -17.785,
+        "lng": -63.188
+      },
+      "unidad_vecinal": "UV-36",
+      "manzana": "Mz-09",
+      "distrito_municipal": "3"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1500,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Colegio El Dorado",
+          "direccion": "Av. El Dorado",
+          "distancia_m": 400,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Hipermaxi El Dorado",
+          "direccion": "Av. El Dorado",
+          "distancia_m": 350,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica El Dorado",
+          "direccion": "Av. El Dorado",
+          "distancia_m": 1000,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp El Dorado",
+          "direccion": "Av. El Dorado",
+          "distancia_m": 200,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_012",
+    "nombre": "Paseo del Sol - Casa 2F",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 295000,
+      "superficie_m2": 240,
+      "habitaciones": 4,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 2
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 4,
+      "estado_conservacion": "bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "oeste",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": false,
+      "nombre_condominio": null,
+      "seguridad_24h": false,
+      "porteria_24h": false,
+      "camaras_seguridad": false,
+      "amenidades": [],
+      "gastos_comunes_aprox": 0
+    },
+    "ubicacion": {
+      "direccion": "Calle Paseo del Sol y Av. Virgen de Cotoca",
+      "barrio": "Paseo del Sol",
+      "zona": "Zona Este",
+      "sector": "Este Residencial",
+      "coordenadas": {
+        "lat": -17.800,
+        "lng": -63.160
+      },
+      "unidad_vecinal": "UV-29",
+      "manzana": "Mz-14",
+      "distrito_municipal": "4"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 950,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "medio"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela Paseo del Sol",
+          "direccion": "Calle Paseo del Sol",
+          "distancia_m": 300,
+          "tipo": "publico"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Paseo del Sol",
+          "direccion": "Calle Paseo del Sol",
+          "distancia_m": 400,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital del Este",
+          "direccion": "Av. Virgen de Cotoca",
+          "distancia_m": 1200,
+          "tipo": "publico"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Paseo del Sol",
+          "direccion": "Calle Paseo del Sol",
+          "distancia_m": 250,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_013",
+    "nombre": "Torre del Este - Loft 6A",
+    "tipo": "Loft",
+    "caracteristicas_principales": {
+      "precio": 125000,
+      "superficie_m2": 65,
+      "habitaciones": 1,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "piso": 6,
+      "amoblado": true,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "este",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_integrada": true,
+      "lavanderia": false,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Torre del Este",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "rooftop",
+        "lavanderia_comunitaria"
+      ],
+      "gastos_comunes_aprox": 250
+    },
+    "ubicacion": {
+      "direccion": "Av. Virgen de Cotoca y 4to Anillo",
+      "barrio": "Torre del Este",
+      "zona": "Zona Este",
+      "sector": "Este Comercial",
+      "coordenadas": {
+        "lat": -17.805,
+        "lng": -63.155
+      },
+      "unidad_vecinal": "UV-30",
+      "manzana": "Mz-16",
+      "distrito_municipal": "4"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1100,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "servicios_cercanos": {
+      "universidad": [
+        {
+          "nombre": "Universidad Nur",
+          "direccion": "Av. Virgen de Cotoca",
+          "distancia_m": 600,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Fidalga",
+          "direccion": "Av. Virgen de Cotoca",
+          "distancia_m": 300,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica del Este",
+          "direccion": "Av. Virgen de Cotoca",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Este",
+          "direccion": "Av. Virgen de Cotoca",
+          "distancia_m": 200,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_014",
+    "nombre": "El Bosque - Casa 5G",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 350000,
+      "superficie_m2": 320,
+      "habitaciones": 5,
+      "dormitorios": 4,
+      "banos_completos": 4,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 3
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "sur",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": true,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "El Bosque",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social",
+        "cancha_tennis"
+      ],
+      "gastos_comunes_aprox": 500
+    },
+    "ubicacion": {
+      "direccion": "Av. El Bosque y 5to Anillo",
+      "barrio": "El Bosque",
+      "zona": "Las Palmas",
+      "sector": "Las Palmas Sur",
+      "coordenadas": {
+        "lat": -17.760,
+        "lng": -63.145
+      },
+      "unidad_vecinal": "UV-42",
+      "manzana": "Mz-06",
+      "distrito_municipal": "8"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1400,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "regular",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Colegio El Bosque",
+          "direccion": "Av. El Bosque",
+          "distancia_m": 500,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado El Bosque",
+          "direccion": "Av. El Bosque",
+          "distancia_m": 400,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica Las Palmas",
+          "direccion": "Av. Las Palmas",
+          "distancia_m": 1500,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp El Bosque",
+          "direccion": "Av. El Bosque",
+          "distancia_m": 300,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_015",
+    "nombre": "Residencial del Sur - Departamento 7B",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 155000,
+      "superficie_m2": 95,
+      "habitaciones": 2,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "piso": 7,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 5,
+      "estado_conservacion": "bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "norte",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Residencial del Sur",
+      "seguridad_24h": true,
+      "porteria_24h": false,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "jardines"
+      ],
+      "gastos_comunes_aprox": 180
+    },
+    "ubicacion": {
+      "direccion": "Av. Sur y 3er Anillo",
+      "barrio": "Residencial del Sur",
+      "zona": "Zona Sur",
+      "sector": "Sur Residencial",
+      "coordenadas": {
+        "lat": -17.820,
+        "lng": -63.200
+      },
+      "unidad_vecinal": "UV-25",
+      "manzana": "Mz-22",
+      "distrito_municipal": "12"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 850,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "medio"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela del Sur",
+          "direccion": "Av. Sur",
+          "distancia_m": 350,
+          "tipo": "publico"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado del Sur",
+          "direccion": "Av. Sur",
+          "distancia_m": 300,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital del Sur",
+          "direccion": "Av. Sur",
+          "distancia_m": 1000,
+          "tipo": "publico"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Sur",
+          "direccion": "Av. Sur",
+          "distancia_m": 250,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_016",
+    "nombre": "Santa Clara - Departamento 4A",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 175000,
+      "superficie_m2": 105,
+      "habitaciones": 3,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 1,
+      "piso": 4,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 7,
+      "estado_conservacion": "bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "oeste",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Santa Clara",
+      "seguridad_24h": true,
+      "porteria_24h": false,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa"
+      ],
+      "gastos_comunes_aprox": 220
+    },
+    "ubicacion": {
+      "direccion": "Calle Santa Clara y 2do Anillo",
+      "barrio": "Santa Clara",
+      "zona": "2do Anillo",
+      "sector": "2do Anillo Norte",
+      "coordenadas": {
+        "lat": -17.775,
+        "lng": -63.175
+      },
+      "unidad_vecinal": "UV-27",
+      "manzana": "Mz-19",
+      "distrito_municipal": "2"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1000,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "medio"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela Santa Clara",
+          "direccion": "Calle Santa Clara",
+          "distancia_m": 200,
+          "tipo": "publico"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio Santa Clara",
+          "direccion": "Calle Santa Clara",
+          "distancia_m": 300,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Santa Clara",
+          "direccion": "Calle Santa Clara",
+          "distancia_m": 250,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica Santa Clara",
+          "direccion": "Calle Santa Clara",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp Santa Clara",
+          "direccion": "Calle Santa Clara",
+          "distancia_m": 150,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_017",
+    "nombre": "Miami Tower - Studio 10B",
+    "tipo": "Studio",
+    "caracteristicas_principales": {
+      "precio": 85000,
+      "superficie_m2": 40,
+      "habitaciones": 1,
+      "dormitorios": 1,
+      "banos_completos": 1,
+      "banos_medios": 0,
+      "piso": 10,
+      "amoblado": true,
+      "cochera_garaje": false,
+      "numero_espacios_garaje": 0
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "nuevo",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "sur",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_integrada": true,
+      "lavanderia": false,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "Miami Tower",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "sala_cine",
+        "rooftop",
+        "lavanderia_comunitaria"
+      ],
+      "gastos_comunes_aprox": 260
+    },
+    "ubicacion": {
+      "direccion": "Av. Miami y Plaza 24 de Septiembre",
+      "barrio": "Centro",
+      "zona": "Centro Histórico",
+      "sector": "Casco Central",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.182
+      },
+      "unidad_vecinal": "UV-11",
+      "manzana": "Mz-03",
+      "distrito_municipal": "1"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 2100,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "muy_alta",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "medio_alto"
+    },
+    "servicios_cercanos": {
+      "universidad": [
+        {
+          "nombre": "Universidad Autónoma Gabriel René Moreno",
+          "direccion": "Av. Oquendo",
+          "distancia_m": 600,
+          "tipo": "publico"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado Hipermaxi Centro",
+          "direccion": "Av. Santa Cruz",
+          "distancia_m": 250,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Hospital Japonés",
+          "direccion": "Av. Irala",
+          "distancia_m": 450,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacia Boliviana",
+          "direccion": "Calle Junín",
+          "distancia_m": 100,
+          "tipo": "farmacia"
+        }
+      ],
+      "restaurante": [
+        {
+          "nombre": "Varios restaurantes",
+          "direccion": "Plaza 24 de Septiembre",
+          "distancia_m": 80,
+          "tipo": "gastronomico"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_018",
+    "nombre": "La Recoleta - Casa 8H",
+    "tipo": "Casa",
+    "caracteristicas_principales": {
+      "precio": 385000,
+      "superficie_m2": 380,
+      "habitaciones": 6,
+      "dormitorios": 5,
+      "banos_completos": 5,
+      "banos_medios": 1,
+      "piso": 0,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 4
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 1,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "norte",
+      "balcon": false,
+      "terraza": true,
+      "jardin_privado": true,
+      "piscina_privada": true,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": true
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "La Recoleta",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social",
+        "cancha_tennis",
+        "cancha_futbol",
+        "spa",
+        "sala_eventos"
+      ],
+      "gastos_comunes_aprox": 800
+    },
+    "ubicacion": {
+      "direccion": "Av. La Recoleta y 6to Anillo",
+      "barrio": "La Recoleta",
+      "zona": "Las Palmas",
+      "sector": "Las Palmas Este",
+      "coordenadas": {
+        "lat": -17.745,
+        "lng": -63.140
+      },
+      "unidad_vecinal": "UV-43",
+      "manzana": "Mz-04",
+      "distrito_municipal": "8"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1450,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "regular",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Colegio La Recoleta",
+          "direccion": "Av. La Recoleta",
+          "distancia_m": 600,
+          "tipo": "privado"
+        }
+      ],
+      "colegio_privado": [
+        {
+          "nombre": "Colegio Internacional La Recoleta",
+          "direccion": "Av. La Recoleta",
+          "distancia_m": 800,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado La Recoleta",
+          "direccion": "Av. La Recoleta",
+          "distancia_m": 500,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica La Recoleta",
+          "direccion": "Av. La Recoleta",
+          "distancia_m": 1200,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp La Recoleta",
+          "direccion": "Av. La Recoleta",
+          "distancia_m": 400,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Country Club La Recoleta",
+          "direccion": "Av. La Recoleta",
+          "distancia_m": 300,
+          "tipo": "club_social"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_019",
+    "nombre": "San Martin - Departamento 9C",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 225000,
+      "superficie_m2": 145,
+      "habitaciones": 3,
+      "dormitorios": 3,
+      "banos_completos": 3,
+      "banos_medios": 1,
+      "piso": 9,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 2,
+      "estado_conservacion": "excelente",
+      "tipo_construccion": "hormigon_armado",
+      "orientacion": "noreste",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": true,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "San Martin",
+      "seguridad_24h": true,
+      "porteria_24h": true,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "area_barbacoa",
+        "jardines",
+        "sala_estar_social",
+        "sala_cine"
+      ],
+      "gastos_comunes_aprox": 420
+    },
+    "ubicacion": {
+      "direccion": "Av. San Martin y 4to Anillo",
+      "barrio": "San Martin",
+      "zona": "Equipetrol",
+      "sector": "Equipetrol Sur",
+      "coordenadas": {
+        "lat": -17.790,
+        "lng": -63.185
+      },
+      "unidad_vecinal": "UV-37",
+      "manzana": "Mz-11",
+      "distrito_municipal": "3"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 1550,
+      "plusvalia_tendencia": "creciente",
+      "demanda_sector": "alta",
+      "seguridad_zona": "alta",
+      "acceso_transporte": "bueno",
+      "nivel_socioeconomico": "alto"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Colegio San Martin",
+          "direccion": "Av. San Martin",
+          "distancia_m": 400,
+          "tipo": "privado"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Hipermaxi San Martin",
+          "direccion": "Av. San Martin",
+          "distancia_m": 350,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica San Martin",
+          "direccion": "Av. San Martin",
+          "distancia_m": 900,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp San Martin",
+          "direccion": "Av. San Martin",
+          "distancia_m": 200,
+          "tipo": "farmacia"
+        }
+      ],
+      "area_verde": [
+        {
+          "nombre": "Parque San Martin",
+          "direccion": "Av. San Martin",
+          "distancia_m": 300,
+          "tipo": "parque"
+        }
+      ]
+    }
+  },
+  {
+    "id": "prop_020",
+    "nombre": "El Prado - Departamento 3D",
+    "tipo": "Departamento",
+    "caracteristicas_principales": {
+      "precio": 115000,
+      "superficie_m2": 75,
+      "habitaciones": 2,
+      "dormitorios": 2,
+      "banos_completos": 2,
+      "banos_medios": 0,
+      "piso": 3,
+      "amoblado": false,
+      "cochera_garaje": true,
+      "numero_espacios_garaje": 1
+    },
+    "detalles_construccion": {
+      "antiguedad_anios": 8,
+      "estado_conservacion": "bueno",
+      "tipo_construccion": "ladrillo",
+      "orientacion": "sur",
+      "balcon": true,
+      "terraza": false,
+      "jardin_privado": false,
+      "piscina_privada": false,
+      "cocina_independiente": true,
+      "lavanderia": true,
+      "aire_acondicionado": false,
+      "calefaccion": false
+    },
+    "condominio": {
+      "es_condominio_cerrado": true,
+      "nombre_condominio": "El Prado",
+      "seguridad_24h": true,
+      "porteria_24h": false,
+      "camaras_seguridad": true,
+      "amenidades": [
+        "piscina_comunitaria",
+        "gimnasio",
+        "jardines"
+      ],
+      "gastos_comunes_aprox": 160
+    },
+    "ubicacion": {
+      "direccion": "Av. El Prado y 2do Anillo",
+      "barrio": "El Prado",
+      "zona": "2do Anillo",
+      "sector": "2do Anillo Sur",
+      "coordenadas": {
+        "lat": -17.790,
+        "lng": -63.180
+      },
+      "unidad_vecinal": "UV-26",
+      "manzana": "Mz-21",
+      "distrito_municipal": "2"
+    },
+    "valorizacion_sector": {
+      "valor_m2_promedio_zona": 950,
+      "plusvalia_tendencia": "estable",
+      "demanda_sector": "media",
+      "seguridad_zona": "media",
+      "acceso_transporte": "excelente",
+      "nivel_socioeconomico": "medio"
+    },
+    "servicios_cercanos": {
+      "escuela_primaria": [
+        {
+          "nombre": "Escuela El Prado",
+          "direccion": "Av. El Prado",
+          "distancia_m": 250,
+          "tipo": "publico"
+        }
+      ],
+      "supermercado": [
+        {
+          "nombre": "Supermercado El Prado",
+          "direccion": "Av. El Prado",
+          "distancia_m": 200,
+          "tipo": "supermercado"
+        }
+      ],
+      "hospital": [
+        {
+          "nombre": "Clinica El Prado",
+          "direccion": "Av. El Prado",
+          "distancia_m": 700,
+          "tipo": "privado"
+        }
+      ],
+      "farmacia": [
+        {
+          "nombre": "Farmacorp El Prado",
+          "direccion": "Av. El Prado",
+          "distancia_m": 150,
+          "tipo": "farmacia"
+        }
+      ]
+    }
+  }
+]

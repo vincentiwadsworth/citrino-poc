@@ -1,0 +1,45 @@
+{
+  "id": "perfil_pareja_joven_001",
+  "nombre": "Carlos y Sofía",
+  "descripcion": "Pareja joven profesionales sin hijos, primer hogar",
+  "composicion_familiar": {
+    "adultos": 2,
+    "ninos": [],
+    "adultos_mayores": 0,
+    "mascotas": 0,
+    "planeando_hijos": true,
+    "vehiculos": 0
+  },
+  "presupuesto": {
+    "min": 150000,
+    "max": 200000,
+    "tipo": "compra",
+    "financiamiento": "credito_hipotecario",
+    "cuota_mensual_max": 1700,
+    "enganche_min": 30000
+  },
+  "necesidades": [
+    "universidad",
+    "supermercado"
+  ],
+  "preferencias": {
+    "ubicacion": "centro_o_equipetrol",
+    "estilo_vida": "urbano",
+    "amoblado": false,
+    "estilo_propiedad": "departamento",
+    "caracteristicas_deseadas": [
+      "terraza",
+      "cocina_moderna",
+      "seguridad_24h",
+      "estacionamiento"
+    ]
+  },
+  "prioridades": {
+    "ubicacion": "muy_alta",
+    "estilo_vida": "alta",
+    "espacio": "media",
+    "precio": "alta",
+    "seguridad": "media"
+  },
+  "comentarios_adicionales": "Prospecto identificado por Jonathan (asesor Citrino). Pareja joven profesionales, ingeniero y abogada. Trabajan en centro y zona equipetrol. Buscan primer hogar con buen acceso a universidades y vida urbana. Citrino cuenta con varias opciones en su rango de presupuesto. Planean tener hijos en 2-3 años, prefieren departamento sin amoblar para personalizar."
+}

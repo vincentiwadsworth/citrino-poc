@@ -1,0 +1,48 @@
+{
+  "id": "perfil_adulto_mayor_001",
+  "nombre": "Roberto Silva",
+  "descripcion": "Adulto mayor jubilado buscando vivienda tranquila y accesible",
+  "composicion_familiar": {
+    "adultos": 1,
+    "ninos": [],
+    "adultos_mayores": 1,
+    "mascotas": 0,
+    "visitas_frecuentes": true,
+    "vehiculos": 0,
+    "necesidades_especiales": "movilidad_reducida"
+  },
+  "presupuesto": {
+    "min": 95000,
+    "max": 150000,
+    "tipo": "compra",
+    "financiamiento": "contado_parcial",
+    "cuota_mensual_max": 1200,
+    "pago_contado_porciento": 60
+  },
+  "necesidades": [
+    "hospital",
+    "supermercado",
+    "farmacia"
+  ],
+  "preferencias": {
+    "ubicacion": "equipetrol_o_norte",
+    "tranquilidad": "alta",
+    "accesibilidad": "alta",
+    "estilo_propiedad": "planta_baja",
+    "caracteristicas_deseadas": [
+      "sin_escaleras",
+      "banho_adaptado",
+      "jardin_pequeño",
+      "seguridad_24h",
+      "ascensor"
+    ]
+  },
+  "prioridades": {
+    "salud": "muy_alta",
+    "accesibilidad": "muy_alta",
+    "seguridad": "alta",
+    "tranquilidad": "alta",
+    "precio": "media"
+  },
+  "comentarios_adicionales": "Prospecto identificado por Franz (asesor Citrino). Adulto mayor jubilado con problemas de movilidad, necesita vivienda accesible sin escaleras. Jubilación estable, puede pagar 60% contado. Hijos viven en otras ciudades pero lo visitan frecuentemente. Prioriza acceso a hospitales, farmacias y supermercados. Citrino tiene propiedades en zonas Equipetrol y Norte adecuadas para sus necesidades."
+}

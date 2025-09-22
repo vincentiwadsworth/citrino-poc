@@ -1,0 +1,13 @@
+{
+  "total_franz": 79932,
+  "total_scraped": 3833,
+  "total_integradas": 83765,
+  "duplicados": 0,
+  "fuente_scraped": {
+    "Bien Inmuebles": 34,
+    "C21": 700,
+    "Remax": 1592,
+    "Capital Corp": 114,
+    "Ultracasas": 96
+  }
+}

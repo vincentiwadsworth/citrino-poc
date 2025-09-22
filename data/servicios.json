@@ -1,0 +1,388 @@
+{
+  "escuela_primaria": [
+    {
+      "nombre": "Escuela Americana",
+      "direccion": "Av. Santos Dumont y 4to Anillo",
+      "telefono": "+591-3-1234567",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.182
+      },
+      "categoria": "escuela_primaria",
+      "horario": "07:30 - 12:30",
+      "nivel": "primario"
+    },
+    {
+      "nombre": "Colegio Alemán",
+      "direccion": "Calle España y 3er Anillo",
+      "telefono": "+591-3-2345678",
+      "coordenadas": {
+        "lat": -17.786,
+        "lng": -63.185
+      },
+      "categoria": "escuela_primaria",
+      "horario": "08:00 - 13:00",
+      "nivel": "primario"
+    },
+    {
+      "nombre": "Colegio La Salle",
+      "direccion": "Av. Cañoto y Uruguay",
+      "telefono": "+591-3-3456789",
+      "coordenadas": {
+        "lat": -17.779,
+        "lng": -63.19
+      },
+      "categoria": "escuela_primaria",
+      "horario": "07:45 - 12:45",
+      "nivel": "primario"
+    },
+    {
+      "nombre": "Escuela Suiza",
+      "direccion": "Calle 21 de Calacoto",
+      "telefono": "+591-3-4567890",
+      "coordenadas": {
+        "lat": -17.775,
+        "lng": -63.188
+      },
+      "categoria": "escuela_primaria",
+      "horario": "08:00 - 12:30",
+      "nivel": "primario"
+    },
+    {
+      "nombre": "Colegio Don Bosco",
+      "direccion": "Av. La Salle y 3er Anillo",
+      "telefono": "+591-3-5678901",
+      "coordenadas": {
+        "lat": -17.788,
+        "lng": -63.178
+      },
+      "categoria": "escuela_primaria",
+      "horario": "07:30 - 12:30",
+      "nivel": "primario"
+    }
+  ],
+  "universidad": [
+    {
+      "nombre": "Universidad Autónoma Gabriel René Moreno",
+      "direccion": "Av. Busch entre Venezuela y España",
+      "telefono": "+591-3-1234567",
+      "coordenadas": {
+        "lat": -17.786,
+        "lng": -63.181
+      },
+      "categoria": "universidad",
+      "tipo": "pública",
+      "facultades": [
+        "Derecho",
+        "Medicina",
+        "Ingeniería",
+        "Economía"
+      ]
+    },
+    {
+      "nombre": "Universidad Privada de Santa Cruz",
+      "direccion": "Av. Velasco y 4to Anillo",
+      "telefono": "+591-3-2345678",
+      "coordenadas": {
+        "lat": -17.784,
+        "lng": -63.183
+      },
+      "categoria": "universidad",
+      "tipo": "privada",
+      "facultades": [
+        "Administración",
+        "Comunicación",
+        "Derecho"
+      ]
+    },
+    {
+      "nombre": "Universidad Tecnológica",
+      "direccion": "Calle Beni esq. Potosí",
+      "telefono": "+591-3-3456789",
+      "coordenadas": {
+        "lat": -17.785,
+        "lng": -63.18
+      },
+      "categoria": "universidad",
+      "tipo": "privada",
+      "facultades": [
+        "Sistemas",
+        "Electrónica",
+        "Industrial"
+      ]
+    },
+    {
+      "nombre": "UPSD - Universidad Privada Domingo Savio",
+      "direccion": "Av. Roca y Coronado",
+      "telefono": "+591-3-4567890",
+      "coordenadas": {
+        "lat": -17.787,
+        "lng": -63.179
+      },
+      "categoria": "universidad",
+      "tipo": "privada",
+      "facultades": [
+        "Derecho",
+        "Psicología",
+        "Arquitectura"
+      ]
+    },
+    {
+      "nombre": "Universidad NUR",
+      "direccion": "Av. La Salle y 2do Anillo",
+      "telefono": "+591-3-5678901",
+      "coordenadas": {
+        "lat": -17.782,
+        "lng": -63.184
+      },
+      "categoria": "universidad",
+      "tipo": "privada",
+      "facultades": [
+        "Medicina",
+        "Enfermería",
+        "Nutrición"
+      ]
+    }
+  ],
+  "hospital": [
+    {
+      "nombre": "Clínica Foianini",
+      "direccion": "Av. Irala y 4to Anillo",
+      "telefono": "+591-3-1234567",
+      "coordenadas": {
+        "lat": -17.781,
+        "lng": -63.183
+      },
+      "categoria": "hospital",
+      "tipo": "privada",
+      "especialidades": [
+        "Cardiología",
+        "Neurología",
+        "Pediatría"
+      ],
+      "emergencias": 24
+    },
+    {
+      "nombre": "Hospital Japonés",
+      "direccion": "Calle Junín esq. Ecuador",
+      "telefono": "+591-3-2345678",
+      "coordenadas": {
+        "lat": -17.785,
+        "lng": -63.181
+      },
+      "categoria": "hospital",
+      "tipo": "privada",
+      "especialidades": [
+        "Ginecología",
+        "Cirugía",
+        "Traumatología"
+      ],
+      "emergencias": 24
+    },
+    {
+      "nombre": "Hospital de la Mujer",
+      "direccion": "Av. Cañoto y Ballivián",
+      "telefono": "+591-3-3456789",
+      "coordenadas": {
+        "lat": -17.789,
+        "lng": -63.177
+      },
+      "categoria": "hospital",
+      "tipo": "público",
+      "especialidades": [
+        "Ginecología",
+        "Obstetricia",
+        "Neonatología"
+      ],
+      "emergencias": 24
+    },
+    {
+      "nombre": "Cemec",
+      "direccion": "Av. San Martín y 3er Anillo",
+      "telefono": "+591-3-4567890",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.186
+      },
+      "categoria": "hospital",
+      "tipo": "privada",
+      "especialidades": [
+        "Emergencias",
+        "Cirugía",
+        "Medicina Interna"
+      ],
+      "emergencias": 24
+    }
+  ],
+  "supermercado": [
+    {
+      "nombre": "Hipermaxi",
+      "direccion": "Av. Santos Dumont y 4to Anillo",
+      "telefono": "+591-3-1234567",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.182
+      },
+      "categoria": "supermercado",
+      "cadena": "Hipermaxi",
+      "horario": "07:00 - 22:00",
+      "servicios": [
+        "delivery",
+        "cajero automático"
+      ]
+    },
+    {
+      "nombre": "Supermercado El Tore",
+      "direccion": "Calle Junín esq. Ecuador",
+      "telefono": "+591-3-2345678",
+      "coordenadas": {
+        "lat": -17.785,
+        "lng": -63.181
+      },
+      "categoria": "supermercado",
+      "cadena": "El Tore",
+      "horario": "07:30 - 21:30",
+      "servicios": [
+        "delivery",
+        "panadería"
+      ]
+    },
+    {
+      "nombre": "Supermercado Fidalga",
+      "direccion": "Av. Santos Dumont y 3er Anillo",
+      "telefono": "+591-3-3456789",
+      "coordenadas": {
+        "lat": -17.784,
+        "lng": -63.184
+      },
+      "categoria": "supermercado",
+      "cadena": "Fidalga",
+      "horario": "08:00 - 22:00",
+      "servicios": [
+        "delivery",
+        "carnicería"
+      ]
+    },
+    {
+      "nombre": "Supermercado La Sierra",
+      "direccion": "Calle 21 de Calacoto",
+      "telefono": "+591-3-4567890",
+      "coordenadas": {
+        "lat": -17.779,
+        "lng": -63.19
+      },
+      "categoria": "supermercado",
+      "cadena": "La Sierra",
+      "horario": "07:00 - 21:30",
+      "servicios": [
+        "delivery",
+        "farmacia"
+      ]
+    },
+    {
+      "nombre": "Supermercado Ketal",
+      "direccion": "Av. La Salle y 3er Anillo",
+      "telefono": "+591-3-5678901",
+      "coordenadas": {
+        "lat": -17.788,
+        "lng": -63.178
+      },
+      "categoria": "supermercado",
+      "cadena": "Ketal",
+      "horario": "08:00 - 22:00",
+      "servicios": [
+        "delivery",
+        "panadería"
+      ]
+    },
+    {
+      "nombre": "Hipermaxi Equipetrol",
+      "direccion": "Av. San Martín y Equipetrol",
+      "telefono": "+591-3-6789012",
+      "coordenadas": {
+        "lat": -17.777,
+        "lng": -63.192
+      },
+      "categoria": "supermercado",
+      "cadena": "Hipermaxi",
+      "horario": "07:00 - 22:00",
+      "servicios": [
+        "delivery",
+        "cajero automático"
+      ]
+    },
+    {
+      "nombre": "Hipermaxi 3er Anillo",
+      "direccion": "Av. La Salle y 3er Anillo",
+      "telefono": "+591-3-7890123",
+      "coordenadas": {
+        "lat": -17.787,
+        "lng": -63.177
+      },
+      "categoria": "supermercado",
+      "cadena": "Hipermaxi",
+      "horario": "07:00 - 22:00",
+      "servicios": [
+        "delivery",
+        "panadería"
+      ]
+    },
+    {
+      "nombre": "Hipermaxi Centro",
+      "direccion": "Calle Beni esq. Potosí",
+      "telefono": "+591-3-8901234",
+      "coordenadas": {
+        "lat": -17.785,
+        "lng": -63.18
+      },
+      "categoria": "supermercado",
+      "cadena": "Hipermaxi",
+      "horario": "07:00 - 22:00",
+      "servicios": [
+        "delivery",
+        "cajero automático"
+      ]
+    }
+  ],
+  "farmacia": [
+    {
+      "nombre": "Farmacias Bono",
+      "direccion": "Av. Santos Dumont y 4to Anillo",
+      "telefono": "+591-3-1234567",
+      "coordenadas": {
+        "lat": -17.783,
+        "lng": -63.182
+      },
+      "categoria": "farmacia",
+      "cadena": "Bono",
+      "horario": "08:00 - 22:00",
+      "turno": 24
+    },
+    {
+      "nombre": "Farmacias Bolivianas",
+      "direccion": "Calle Junín esq. Ecuador",
+      "telefono": "+591-3-2345678",
+      "coordenadas": {
+        "lat": -17.785,
+        "lng": -63.181
+      },
+      "categoria": "farmacia",
+      "cadena": "Bolivianas",
+      "horario": "08:00 - 22:00",
+      "turno": 24
+    },
+    {
+      "nombre": "Farmacias La Salle",
+      "direccion": "Av. La Salle y 3er Anillo",
+      "telefono": "+591-3-3456789",
+      "coordenadas": {
+        "lat": -17.788,
+        "lng": -63.178
+      },
+      "categoria": "farmacia",
+      "cadena": "La Salle",
+      "horario": "08:00 - 22:00",
+      "turno": 24
+    }
+  ]
+}

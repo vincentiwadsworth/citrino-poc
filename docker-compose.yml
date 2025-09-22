@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  citrino-poc:
+    build: .
+    container_name: citrino-poc
+    volumes:
+      - ./data:/app/data
+      - ./scripts:/app/scripts
+      - ./docs:/app/docs
+    environment:
+      - PYTHONPATH=/app
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    command: python -m src.cli ayuda
+    stdin_open: true
+    tty: true
+    networks:
+      - citrino-network
+
+  # Optional: Add a web interface service in the future
+  # web-interface:
+  #   build: .
+  #   container_name: citrino-web
+  #   ports:
+  #     - "8000:8000"
+  #   environment:
+  #     - PYTHONPATH=/app
+  #   command: python -m src.web_app
+  #   networks:
+  #     - citrino-network
+
+  # Optional: Add database service in the future
+  # database:
+  #   image: postgres:15
+  #   container_name: citrino-db
+  #   environment:
+  #     POSTGRES_DB: citrino
+  #     POSTGRES_USER: citrino
+  #     POSTGRES_PASSWORD: citrino_password
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   networks:
+  #     - citrino-network
+
+networks:
+  citrino-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
